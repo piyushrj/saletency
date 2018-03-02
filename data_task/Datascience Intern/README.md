@@ -1,0 +1,1 @@
+This file contains my solution to the saletency data analysis task, to view the solution open the corresponding Jupyter notebook, Each notebook deals with a certain type of data from the data given by saletency.
