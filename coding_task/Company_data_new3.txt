@@ -1,1 +1,0 @@
-{'Industry': 'Chemical', 'Address': 'Bombay House, 24 Homi Mody Street, Fort, ', 'City': 'Mumbai', 'Company Type': "India's Top 500", 'Phone': '(022) 66658282  6643740', 'Name': 'Tata Chemicals Ltd (TATA)', 'Pin': '400001', 'State': 'Maharashtra ', 'Website': 'www.tatachemicals.com', 'Sector': 'Private Sector'}

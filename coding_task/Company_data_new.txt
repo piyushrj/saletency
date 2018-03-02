@@ -1,1 +1,0 @@
-{'Industry': 'Chemical', 'Address': '6 A Shantinagar Estate, Vakola Pipeline Road, Santacruz(E)', 'City': 'Mumbai', 'Company Type': "India's Top 500", 'Phone': '(022) 6218100', 'Name': 'Asian Paints Ltd', 'Pin': '400055', 'State': 'Maharashtra ', 'Website': 'www.asianpaints.com', 'Sector': 'Private Sector'}
