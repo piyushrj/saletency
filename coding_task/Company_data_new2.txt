@@ -1,0 +1,1 @@
+{'Industry': 'Information Technology (IT)', 'Address': 'E-4, 5 & 6, Sector 11', 'City': 'Noida', 'Company Type': "India's Top 500", 'Phone': '(0120) 2520977  252651', 'Name': 'HCL Infosystems Ltd (HCL)', 'Pin': '201301', 'State': 'Uttar Pradesh ', 'Website': 'www.hclinfosystems.in', 'Sector': 'Private Sector'}

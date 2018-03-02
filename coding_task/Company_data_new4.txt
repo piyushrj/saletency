@@ -1,0 +1,1 @@
+{'Industry': 'Chemical', 'Address': '3rd Floor, Shree Sawan Knowledge Park, Plot No. D-507, MIDC, Turbhe, ', 'City': 'Mumbai', 'Company Type': "India's Top 500", 'Phone': '(022) 67243700  6724380', 'Name': 'BASF India Ltd (BASF)', 'Pin': '400705', 'State': 'Maharashtra ', 'Website': 'www.basf.com', 'Sector': 'Private Sector'}
